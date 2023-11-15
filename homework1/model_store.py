@@ -42,11 +42,6 @@ class Scene:
             self.models = models
             self.flashes = flashes
 
-        # def method_1(data: None) -> None:
-        #     pass
-        #
-        # def method_2(data1: None, data2: None) -> None:
-        #     pass
         def metod1(self, type1):
             return type(type1)
 
